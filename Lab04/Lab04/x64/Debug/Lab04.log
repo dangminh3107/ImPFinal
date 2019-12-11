@@ -1,0 +1,21 @@
+﻿  stdafx.cpp
+  Lab04.cpp
+  GaussBlur.cpp
+c:\users\dangm\documents\visual studio 2015\projects\lab04\lab04\gaussblur.cpp(15): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\dangm\documents\visual studio 2015\projects\lab04\lab04\gaussblur.cpp(16): warning C4244: 'initializing': conversion from 'long double' to 'float', possible loss of data
+  Convolution.cpp
+c:\users\dangm\documents\visual studio 2015\projects\lab04\lab04\convolution.cpp(24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Converter.cpp
+c:\users\dangm\documents\visual studio 2015\projects\lab04\lab04\converter.cpp(26): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+c:\users\dangm\documents\visual studio 2015\projects\lab04\lab04\converter.cpp(41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dangm\documents\visual studio 2015\projects\lab04\lab04\converter.cpp(73): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dangm\documents\visual studio 2015\projects\lab04\lab04\converter.cpp(155): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dangm\documents\visual studio 2015\projects\lab04\lab04\converter.cpp(173): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\dangm\documents\visual studio 2015\projects\lab04\lab04\converter.cpp(196): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\dangm\documents\visual studio 2015\projects\lab04\lab04\converter.cpp(197): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  CannyEdgeDetector.cpp
+c:\users\dangm\documents\visual studio 2015\projects\lab04\lab04\cannyedgedetector.cpp(57): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dangm\documents\visual studio 2015\projects\lab04\lab04\cannyedgedetector.cpp(87): warning C4101: 'pRow': unreferenced local variable
+  Generating Code...
+  Lab04.vcxproj -> C:\Users\dangm\Documents\Visual Studio 2015\Projects\Lab04\x64\Debug\Lab04.exe
+  Lab04.vcxproj -> C:\Users\dangm\Documents\Visual Studio 2015\Projects\Lab04\x64\Debug\Lab04.pdb (Full PDB)
