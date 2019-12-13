@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\dangm\documents\visual studio 2015\projects\lab05\lab05\source.cpp(26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dangm\documents\visual studio 2015\projects\lab05\lab05\source.cpp(57): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dangm\documents\visual studio 2015\projects\lab05\lab05\source.cpp(107): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dangm\documents\visual studio 2015\projects\lab05\lab05\source.cpp(200): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dangm\documents\visual studio 2015\projects\lab05\lab05\source.cpp(270): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\dangm\documents\visual studio 2015\projects\lab05\lab05\source.cpp(524): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+  Lab05.vcxproj -> C:\Users\dangm\Documents\Visual Studio 2015\Projects\Lab05\x64\Debug\Lab05.exe
+  Lab05.vcxproj -> C:\Users\dangm\Documents\Visual Studio 2015\Projects\Lab05\x64\Debug\Lab05.pdb (Full PDB)
