@@ -1,0 +1,30 @@
+C:\Users\THANH\Desktop\Lab01\vehinh\bin\Debug\SharpGL.dll
+C:\Users\THANH\Desktop\Lab01\vehinh\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\THANH\Desktop\Lab01\vehinh\bin\Debug\SharpGL.WinForms.dll
+C:\Users\THANH\Desktop\Lab01\vehinh\bin\Debug\SharpGL.xml
+C:\Users\THANH\Desktop\Lab01\vehinh\bin\Debug\SharpGL.SceneGraph.xml
+C:\Users\THANH\Desktop\Lab01\vehinh\bin\Debug\SharpGL.WinForms.xml
+C:\Users\THANH\Desktop\Lab01\vehinh\obj\Debug\Lab01.csprojResolveAssemblyReference.cache
+C:\Users\THANH\Desktop\Lab01\vehinh\obj\Debug\vehinh.Form1.resources
+C:\Users\THANH\Desktop\Lab01\vehinh\obj\Debug\Lab01.csproj.GenerateResource.Cache
+C:\Users\THANH\Desktop\Lab01\vehinh\bin\Debug\Lab01.exe.config
+C:\Users\THANH\Desktop\Lab01\vehinh\bin\Debug\Lab01.exe
+C:\Users\THANH\Desktop\Lab01\vehinh\bin\Debug\Lab01.pdb
+C:\Users\THANH\Desktop\Lab01\vehinh\obj\Debug\Lab01.Properties.Resources.resources
+C:\Users\THANH\Desktop\Lab01\vehinh\obj\Debug\Lab01.exe
+C:\Users\THANH\Desktop\Lab01\vehinh\obj\Debug\Lab01.pdb
+C:\Users\THANH\Desktop\Lab01 - Copy\vehinh\bin\Debug\Lab01.exe.config
+C:\Users\THANH\Desktop\Lab01 - Copy\vehinh\bin\Debug\Lab01.exe
+C:\Users\THANH\Desktop\Lab01 - Copy\vehinh\bin\Debug\Lab01.pdb
+C:\Users\THANH\Desktop\Lab01 - Copy\vehinh\bin\Debug\SharpGL.dll
+C:\Users\THANH\Desktop\Lab01 - Copy\vehinh\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\THANH\Desktop\Lab01 - Copy\vehinh\bin\Debug\SharpGL.WinForms.dll
+C:\Users\THANH\Desktop\Lab01 - Copy\vehinh\bin\Debug\SharpGL.xml
+C:\Users\THANH\Desktop\Lab01 - Copy\vehinh\bin\Debug\SharpGL.SceneGraph.xml
+C:\Users\THANH\Desktop\Lab01 - Copy\vehinh\bin\Debug\SharpGL.WinForms.xml
+C:\Users\THANH\Desktop\Lab01 - Copy\vehinh\obj\Debug\Lab01.csprojResolveAssemblyReference.cache
+C:\Users\THANH\Desktop\Lab01 - Copy\vehinh\obj\Debug\vehinh.Form1.resources
+C:\Users\THANH\Desktop\Lab01 - Copy\vehinh\obj\Debug\Lab01.Properties.Resources.resources
+C:\Users\THANH\Desktop\Lab01 - Copy\vehinh\obj\Debug\Lab01.csproj.GenerateResource.Cache
+C:\Users\THANH\Desktop\Lab01 - Copy\vehinh\obj\Debug\Lab01.exe
+C:\Users\THANH\Desktop\Lab01 - Copy\vehinh\obj\Debug\Lab01.pdb

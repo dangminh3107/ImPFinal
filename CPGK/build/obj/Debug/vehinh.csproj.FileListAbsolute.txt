@@ -1,0 +1,67 @@
+C:\Users\uy201\Music\code\C#\vehinh\vehinh\bin\Debug\vehinh.exe.config
+C:\Users\uy201\Music\code\C#\vehinh\vehinh\bin\Debug\vehinh.exe
+C:\Users\uy201\Music\code\C#\vehinh\vehinh\bin\Debug\vehinh.pdb
+C:\Users\uy201\Music\code\C#\vehinh\vehinh\bin\Debug\SharpGL.dll
+C:\Users\uy201\Music\code\C#\vehinh\vehinh\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\uy201\Music\code\C#\vehinh\vehinh\bin\Debug\SharpGL.WinForms.dll
+C:\Users\uy201\Music\code\C#\vehinh\vehinh\bin\Debug\SharpGL.xml
+C:\Users\uy201\Music\code\C#\vehinh\vehinh\bin\Debug\SharpGL.SceneGraph.xml
+C:\Users\uy201\Music\code\C#\vehinh\vehinh\bin\Debug\SharpGL.WinForms.xml
+C:\Users\uy201\Music\code\C#\vehinh\vehinh\obj\Debug\vehinh.csprojAssemblyReference.cache
+C:\Users\uy201\Music\code\C#\vehinh\vehinh\obj\Debug\vehinh.Form1.resources
+C:\Users\uy201\Music\code\C#\vehinh\vehinh\obj\Debug\vehinh.Properties.Resources.resources
+C:\Users\uy201\Music\code\C#\vehinh\vehinh\obj\Debug\vehinh.csproj.GenerateResource.cache
+C:\Users\uy201\Music\code\C#\vehinh\vehinh\obj\Debug\vehinh.csproj.CopyComplete
+C:\Users\uy201\Music\code\C#\vehinh\vehinh\obj\Debug\vehinh.exe
+C:\Users\uy201\Music\code\C#\vehinh\vehinh\obj\Debug\vehinh.pdb
+C:\Users\uy201\Music\code\C#\vehinh\vehinh\bin\Debug\System.Net.Http.dll
+C:\Users\uy201\Music\code\C#\vehinh\vehinh\bin\Debug\System.Net.Http.xml
+C:\Users\Admin\Downloads\vehinh (1)\vehinh\vehinh\bin\Debug\vehinh.exe.config
+C:\Users\Admin\Downloads\vehinh (1)\vehinh\vehinh\bin\Debug\vehinh.exe
+C:\Users\Admin\Downloads\vehinh (1)\vehinh\vehinh\bin\Debug\vehinh.pdb
+C:\Users\Admin\Downloads\vehinh (1)\vehinh\vehinh\bin\Debug\SharpGL.dll
+C:\Users\Admin\Downloads\vehinh (1)\vehinh\vehinh\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Admin\Downloads\vehinh (1)\vehinh\vehinh\bin\Debug\SharpGL.WinForms.dll
+C:\Users\Admin\Downloads\vehinh (1)\vehinh\vehinh\bin\Debug\SharpGL.xml
+C:\Users\Admin\Downloads\vehinh (1)\vehinh\vehinh\bin\Debug\SharpGL.SceneGraph.xml
+C:\Users\Admin\Downloads\vehinh (1)\vehinh\vehinh\bin\Debug\SharpGL.WinForms.xml
+C:\Users\Admin\Downloads\vehinh (1)\vehinh\vehinh\obj\Debug\vehinh.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\vehinh (1)\vehinh\vehinh\obj\Debug\vehinh.Form1.resources
+C:\Users\Admin\Downloads\vehinh (1)\vehinh\vehinh\obj\Debug\vehinh.Properties.Resources.resources
+C:\Users\Admin\Downloads\vehinh (1)\vehinh\vehinh\obj\Debug\vehinh.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\vehinh (1)\vehinh\vehinh\obj\Debug\vehinh.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\vehinh (1)\vehinh\vehinh\obj\Debug\vehinh.csproj.CopyComplete
+C:\Users\Admin\Downloads\vehinh (1)\vehinh\vehinh\obj\Debug\vehinh.exe
+C:\Users\Admin\Downloads\vehinh (1)\vehinh\vehinh\obj\Debug\vehinh.pdb
+D:\DHMT\ĐHMT - Thực hành Lab\ComputerGraphic_Lab1_Project\1712842_891_893_873_927_BT1\vehinh\bin\Debug\vehinh.exe.config
+D:\DHMT\ĐHMT - Thực hành Lab\ComputerGraphic_Lab1_Project\1712842_891_893_873_927_BT1\vehinh\bin\Debug\vehinh.exe
+D:\DHMT\ĐHMT - Thực hành Lab\ComputerGraphic_Lab1_Project\1712842_891_893_873_927_BT1\vehinh\bin\Debug\vehinh.pdb
+D:\DHMT\ĐHMT - Thực hành Lab\ComputerGraphic_Lab1_Project\1712842_891_893_873_927_BT1\vehinh\bin\Debug\SharpGL.dll
+D:\DHMT\ĐHMT - Thực hành Lab\ComputerGraphic_Lab1_Project\1712842_891_893_873_927_BT1\vehinh\bin\Debug\SharpGL.SceneGraph.dll
+D:\DHMT\ĐHMT - Thực hành Lab\ComputerGraphic_Lab1_Project\1712842_891_893_873_927_BT1\vehinh\bin\Debug\SharpGL.WinForms.dll
+D:\DHMT\ĐHMT - Thực hành Lab\ComputerGraphic_Lab1_Project\1712842_891_893_873_927_BT1\vehinh\bin\Debug\SharpGL.xml
+D:\DHMT\ĐHMT - Thực hành Lab\ComputerGraphic_Lab1_Project\1712842_891_893_873_927_BT1\vehinh\bin\Debug\SharpGL.SceneGraph.xml
+D:\DHMT\ĐHMT - Thực hành Lab\ComputerGraphic_Lab1_Project\1712842_891_893_873_927_BT1\vehinh\bin\Debug\SharpGL.WinForms.xml
+D:\DHMT\ĐHMT - Thực hành Lab\ComputerGraphic_Lab1_Project\1712842_891_893_873_927_BT1\vehinh\obj\Debug\vehinh.csprojAssemblyReference.cache
+D:\DHMT\ĐHMT - Thực hành Lab\ComputerGraphic_Lab1_Project\1712842_891_893_873_927_BT1\vehinh\obj\Debug\vehinh.Form1.resources
+D:\DHMT\ĐHMT - Thực hành Lab\ComputerGraphic_Lab1_Project\1712842_891_893_873_927_BT1\vehinh\obj\Debug\vehinh.Properties.Resources.resources
+D:\DHMT\ĐHMT - Thực hành Lab\ComputerGraphic_Lab1_Project\1712842_891_893_873_927_BT1\vehinh\obj\Debug\vehinh.csproj.GenerateResource.cache
+D:\DHMT\ĐHMT - Thực hành Lab\ComputerGraphic_Lab1_Project\1712842_891_893_873_927_BT1\vehinh\obj\Debug\vehinh.csproj.CoreCompileInputs.cache
+D:\DHMT\ĐHMT - Thực hành Lab\ComputerGraphic_Lab1_Project\1712842_891_893_873_927_BT1\vehinh\obj\Debug\vehinh.csproj.CopyComplete
+D:\DHMT\ĐHMT - Thực hành Lab\ComputerGraphic_Lab1_Project\1712842_891_893_873_927_BT1\vehinh\obj\Debug\vehinh.exe
+D:\DHMT\ĐHMT - Thực hành Lab\ComputerGraphic_Lab1_Project\1712842_891_893_873_927_BT1\vehinh\obj\Debug\vehinh.pdb
+C:\Users\THANH\Downloads\Compressed\ComputerGraphic_Project1-master\1712842_891_893_873_927_BT1\vehinh\bin\Debug\vehinh.exe.config
+C:\Users\THANH\Downloads\Compressed\ComputerGraphic_Project1-master\1712842_891_893_873_927_BT1\vehinh\bin\Debug\vehinh.exe
+C:\Users\THANH\Downloads\Compressed\ComputerGraphic_Project1-master\1712842_891_893_873_927_BT1\vehinh\bin\Debug\vehinh.pdb
+C:\Users\THANH\Downloads\Compressed\ComputerGraphic_Project1-master\1712842_891_893_873_927_BT1\vehinh\bin\Debug\SharpGL.dll
+C:\Users\THANH\Downloads\Compressed\ComputerGraphic_Project1-master\1712842_891_893_873_927_BT1\vehinh\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\THANH\Downloads\Compressed\ComputerGraphic_Project1-master\1712842_891_893_873_927_BT1\vehinh\bin\Debug\SharpGL.WinForms.dll
+C:\Users\THANH\Downloads\Compressed\ComputerGraphic_Project1-master\1712842_891_893_873_927_BT1\vehinh\bin\Debug\SharpGL.xml
+C:\Users\THANH\Downloads\Compressed\ComputerGraphic_Project1-master\1712842_891_893_873_927_BT1\vehinh\bin\Debug\SharpGL.SceneGraph.xml
+C:\Users\THANH\Downloads\Compressed\ComputerGraphic_Project1-master\1712842_891_893_873_927_BT1\vehinh\bin\Debug\SharpGL.WinForms.xml
+C:\Users\THANH\Downloads\Compressed\ComputerGraphic_Project1-master\1712842_891_893_873_927_BT1\vehinh\obj\Debug\vehinh.csprojResolveAssemblyReference.cache
+C:\Users\THANH\Downloads\Compressed\ComputerGraphic_Project1-master\1712842_891_893_873_927_BT1\vehinh\obj\Debug\vehinh.Form1.resources
+C:\Users\THANH\Downloads\Compressed\ComputerGraphic_Project1-master\1712842_891_893_873_927_BT1\vehinh\obj\Debug\vehinh.Properties.Resources.resources
+C:\Users\THANH\Downloads\Compressed\ComputerGraphic_Project1-master\1712842_891_893_873_927_BT1\vehinh\obj\Debug\vehinh.csproj.GenerateResource.Cache
+C:\Users\THANH\Downloads\Compressed\ComputerGraphic_Project1-master\1712842_891_893_873_927_BT1\vehinh\obj\Debug\vehinh.exe
+C:\Users\THANH\Downloads\Compressed\ComputerGraphic_Project1-master\1712842_891_893_873_927_BT1\vehinh\obj\Debug\vehinh.pdb

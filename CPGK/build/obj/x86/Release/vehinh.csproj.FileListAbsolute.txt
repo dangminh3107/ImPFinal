@@ -1,0 +1,17 @@
+C:\Users\uy201\Music\code\C#\vehinh\vehinh\bin\x86\Release\vehinh.exe.config
+C:\Users\uy201\Music\code\C#\vehinh\vehinh\bin\x86\Release\vehinh.exe
+C:\Users\uy201\Music\code\C#\vehinh\vehinh\bin\x86\Release\vehinh.pdb
+C:\Users\uy201\Music\code\C#\vehinh\vehinh\bin\x86\Release\SharpGL.dll
+C:\Users\uy201\Music\code\C#\vehinh\vehinh\bin\x86\Release\SharpGL.SceneGraph.dll
+C:\Users\uy201\Music\code\C#\vehinh\vehinh\bin\x86\Release\SharpGL.WinForms.dll
+C:\Users\uy201\Music\code\C#\vehinh\vehinh\bin\x86\Release\System.Net.Http.dll
+C:\Users\uy201\Music\code\C#\vehinh\vehinh\bin\x86\Release\SharpGL.xml
+C:\Users\uy201\Music\code\C#\vehinh\vehinh\bin\x86\Release\SharpGL.SceneGraph.xml
+C:\Users\uy201\Music\code\C#\vehinh\vehinh\bin\x86\Release\SharpGL.WinForms.xml
+C:\Users\uy201\Music\code\C#\vehinh\vehinh\bin\x86\Release\System.Net.Http.xml
+C:\Users\uy201\Music\code\C#\vehinh\vehinh\obj\x86\Release\vehinh.Form1.resources
+C:\Users\uy201\Music\code\C#\vehinh\vehinh\obj\x86\Release\vehinh.Properties.Resources.resources
+C:\Users\uy201\Music\code\C#\vehinh\vehinh\obj\x86\Release\vehinh.csproj.GenerateResource.cache
+C:\Users\uy201\Music\code\C#\vehinh\vehinh\obj\x86\Release\vehinh.csproj.CopyComplete
+C:\Users\uy201\Music\code\C#\vehinh\vehinh\obj\x86\Release\vehinh.exe
+C:\Users\uy201\Music\code\C#\vehinh\vehinh\obj\x86\Release\vehinh.pdb

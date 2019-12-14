@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DF448327-F6E0-44F1-9751-27AA3C43AB18}"
+	ProjectSection(SolutionItems) = preProject
+		build\App.config = build\App.config
+		build\Properties\Settings.settings = build\Properties\Settings.settings
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab011", "build\Lab011.csproj", "{11292DBA-4CDC-4AA7-82CE-131A9C814A98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11292DBA-4CDC-4AA7-82CE-131A9C814A98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11292DBA-4CDC-4AA7-82CE-131A9C814A98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11292DBA-4CDC-4AA7-82CE-131A9C814A98}.Debug|x86.ActiveCfg = Debug|x86
+		{11292DBA-4CDC-4AA7-82CE-131A9C814A98}.Debug|x86.Build.0 = Debug|x86
+		{11292DBA-4CDC-4AA7-82CE-131A9C814A98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11292DBA-4CDC-4AA7-82CE-131A9C814A98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11292DBA-4CDC-4AA7-82CE-131A9C814A98}.Release|x86.ActiveCfg = Release|x86
+		{11292DBA-4CDC-4AA7-82CE-131A9C814A98}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7418482C-F9C2-4B07-96D5-84C927151B78}
+	EndGlobalSection
+EndGlobal

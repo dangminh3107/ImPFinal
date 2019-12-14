@@ -1,0 +1,54 @@
+C:\Users\THANH\Desktop\Lab01 - Copy\build\bin\Debug\Lab01.exe.config
+C:\Users\THANH\Desktop\Lab01 - Copy\build\obj\Debug\Lab01.exe
+C:\Users\THANH\Desktop\Lab01 - Copy\build\obj\Debug\Lab01.pdb
+C:\Users\THANH\Desktop\Lab01 - Copy\build\bin\Debug\Lab01.exe
+C:\Users\THANH\Desktop\Lab01 - Copy\build\bin\Debug\Lab01.pdb
+C:\Users\THANH\Desktop\Lab01 - Copy\build\bin\Debug\SharpGL.dll
+C:\Users\THANH\Desktop\Lab01 - Copy\build\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\THANH\Desktop\Lab01 - Copy\build\bin\Debug\SharpGL.WinForms.dll
+C:\Users\THANH\Desktop\Lab01 - Copy\build\bin\Debug\SharpGL.xml
+C:\Users\THANH\Desktop\Lab01 - Copy\build\bin\Debug\SharpGL.SceneGraph.xml
+C:\Users\THANH\Desktop\Lab01 - Copy\build\bin\Debug\SharpGL.WinForms.xml
+C:\Users\THANH\Desktop\Lab01 - Copy\build\obj\Debug\Lab011.csprojResolveAssemblyReference.cache
+C:\Users\THANH\Desktop\Lab01 - Copy\build\obj\Debug\Lab01.Properties.Resources.resources
+C:\Users\THANH\Desktop\Lab01 - Copy\build\obj\Debug\Lab011.csproj.GenerateResource.Cache
+C:\Users\THANH\Desktop\Lab01\build\bin\Debug\Lab01.exe.config
+C:\Users\THANH\Desktop\Lab01\build\obj\Debug\Lab01.exe
+C:\Users\THANH\Desktop\Lab01\build\obj\Debug\Lab01.pdb
+C:\Users\THANH\Desktop\Lab01 - Copy\build\obj\Debug\Draw.Form1.resources
+C:\Users\THANH\Desktop\Lab01 - Final\build\bin\Debug\Lab01.exe.config
+C:\Users\THANH\Desktop\Lab01 - Final\build\obj\Debug\Lab01.exe
+C:\Users\THANH\Desktop\Lab01 - Final\build\obj\Debug\Lab01.pdb
+C:\Users\THANH\Desktop\Lab01 - Final - Copy\build\bin\Debug\Lab01.exe.config
+C:\Users\THANH\Desktop\Lab01 - Final - Copy\build\obj\Debug\Lab01.exe
+C:\Users\THANH\Desktop\Lab01 - Final - Copy\build\obj\Debug\Lab01.pdb
+C:\Users\THANH\Desktop\Lab01 - Final - Copy\build\bin\Debug\Lab01.exe
+C:\Users\THANH\Desktop\Lab01 - Final - Copy\build\bin\Debug\Lab01.pdb
+C:\Users\THANH\Desktop\Lab01 - Final - Copy\build\bin\Debug\SharpGL.dll
+C:\Users\THANH\Desktop\Lab01 - Final - Copy\build\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\THANH\Desktop\Lab01 - Final - Copy\build\bin\Debug\SharpGL.WinForms.dll
+C:\Users\THANH\Desktop\Lab01 - Final - Copy\build\bin\Debug\SharpGL.xml
+C:\Users\THANH\Desktop\Lab01 - Final - Copy\build\bin\Debug\SharpGL.SceneGraph.xml
+C:\Users\THANH\Desktop\Lab01 - Final - Copy\build\bin\Debug\SharpGL.WinForms.xml
+C:\Users\THANH\Desktop\Lab01 - Final - Copy\build\obj\Debug\Lab011.csprojResolveAssemblyReference.cache
+C:\Users\THANH\Desktop\Lab01 - Final - Copy\build\obj\Debug\Draw.Form1.resources
+C:\Users\THANH\Desktop\Lab01 - Final - Copy\build\obj\Debug\Lab01.Properties.Resources.resources
+C:\Users\THANH\Desktop\Lab01 - Final - Copy\build\obj\Debug\Lab011.csproj.GenerateResource.Cache
+C:\Users\THANH\Desktop\Lab01 - Final - Final\build\bin\Debug\Lab01.exe.config
+C:\Users\THANH\Desktop\Lab01 - Final - Final\build\obj\Debug\Lab01.exe
+C:\Users\THANH\Desktop\Lab01 - Final - Final\build\obj\Debug\Lab01.pdb
+C:\Users\dangm\OneDrive - VNU-HCMUS\Lab01 - Final - Final\build\bin\Debug\Lab01.exe.config
+C:\Users\dangm\OneDrive - VNU-HCMUS\Lab01 - Final - Final\build\obj\Debug\Lab01.exe
+C:\Users\dangm\OneDrive - VNU-HCMUS\Lab01 - Final - Final\build\obj\Debug\Lab01.pdb
+C:\Users\dangm\OneDrive - VNU-HCMUS\Lab01 - Final - Final\build\bin\Debug\Lab01.exe
+C:\Users\dangm\OneDrive - VNU-HCMUS\Lab01 - Final - Final\build\bin\Debug\Lab01.pdb
+C:\Users\dangm\OneDrive - VNU-HCMUS\Lab01 - Final - Final\build\bin\Debug\SharpGL.dll
+C:\Users\dangm\OneDrive - VNU-HCMUS\Lab01 - Final - Final\build\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\dangm\OneDrive - VNU-HCMUS\Lab01 - Final - Final\build\bin\Debug\SharpGL.WinForms.dll
+C:\Users\dangm\OneDrive - VNU-HCMUS\Lab01 - Final - Final\build\bin\Debug\SharpGL.xml
+C:\Users\dangm\OneDrive - VNU-HCMUS\Lab01 - Final - Final\build\bin\Debug\SharpGL.SceneGraph.xml
+C:\Users\dangm\OneDrive - VNU-HCMUS\Lab01 - Final - Final\build\bin\Debug\SharpGL.WinForms.xml
+C:\Users\dangm\OneDrive - VNU-HCMUS\Lab01 - Final - Final\build\obj\Debug\Lab011.csprojResolveAssemblyReference.cache
+C:\Users\dangm\OneDrive - VNU-HCMUS\Lab01 - Final - Final\build\obj\Debug\Draw.Form1.resources
+C:\Users\dangm\OneDrive - VNU-HCMUS\Lab01 - Final - Final\build\obj\Debug\Lab01.Properties.Resources.resources
+C:\Users\dangm\OneDrive - VNU-HCMUS\Lab01 - Final - Final\build\obj\Debug\Lab011.csproj.GenerateResource.Cache
